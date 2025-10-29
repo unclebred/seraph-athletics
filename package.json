@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": @remix-run/dev
+  "dependencies": "@remix-run/dev"
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
